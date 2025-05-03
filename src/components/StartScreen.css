@@ -1,0 +1,16 @@
+.start-screen-bg {
+  background: linear-gradient(to bottom, #cbec66, rgb(127, 231, 153));
+}
+
+button {
+  background: linear-gradient(to right, #dff9fb, #95afc0);
+  border: 2px solid black;
+  box-shadow: -4px 0 6px #2a2b2b, 0 4px 6px #373738;
+}
+
+.rubik-lines-regular {
+  font-family: "Rubik Lines", system-ui;
+  font-weight: 500;
+  font-style: normal;
+  text-shadow: -4px 0 6px #297ee6, 0 4px 6px #297ee6;
+}
